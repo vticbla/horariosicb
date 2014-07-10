@@ -5,4 +5,4 @@ Ano 2014
 07/7 - 11:10 -> 19:10
 08/7 - 08:40 -> 12:45 (jogo do brasil)
 09/7 - 11:00 -> 19:20
-10/7 - 12:20 -> 20:20 (Chuva engarrafamento)
+10/7 - 12:20 -> 20:20 (chuva engarrafamento)
